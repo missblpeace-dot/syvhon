@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: syvhon-inspired-podcast
+    runtime: static
+    buildCommand: ''
+    staticPublishPath: ./outputs
+
