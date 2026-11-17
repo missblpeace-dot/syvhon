@@ -10,7 +10,7 @@ Open `outputs/index.html` in a browser. The prototype has no build step or serve
 
 This repository includes a Render Blueprint (`render.yaml`). Once the project is pushed to GitHub and GitHub is connected to Render:
 
-1. In Render, choose **New â†’ Blueprint**.
+1. In Render, choose **New → Blueprint**.
 2. Select this GitHub repository.
 3. Review the `syvhon-inspired-podcast` static site and apply the Blueprint.
 4. Render publishes the `outputs/` directory and provides a public `onrender.com` URL.
